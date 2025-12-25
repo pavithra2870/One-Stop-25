@@ -1,4 +1,5 @@
 # OneStop.25
+try at: https://onestop-25.onrender.com
 ai powered personal reflection and milestone analytics platform
 
 onestop.25 is a high-performance personal analytics system that converts everyday activity into structured insights, micro-wins, and cultural-style feedback loops. it blends real-time data pipelines, serverless ai orchestration, and a brutalist interaction layer to create a private yearly operating system. it is very much optimised for mobile experience and uses custom ui/ux (no gradients)
